@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ssh <server user>@<server name> <path to server backup script>/sheduler.run
+
+exit 0
