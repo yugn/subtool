@@ -1,0 +1,8 @@
+#!/bin/bash
+
+python <path to server backup script>/backup_tool.py <path to configuration file for server backup script>/backup.cfg
+
+sudo shutdown -P +1
+
+exit 0
+

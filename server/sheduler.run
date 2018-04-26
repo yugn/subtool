@@ -1,0 +1,6 @@
+#!/bin/bash
+
+nohup <path to backup_rehasher.run script>/backup_rehasher.run &
+disown
+
+exit 0
